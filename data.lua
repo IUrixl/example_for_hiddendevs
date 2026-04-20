@@ -16,7 +16,7 @@ return {
 		releasekey = "EarlyAccess.safe1",
 		mixdata = false, -- Prevent data loss when switching between studio and production
 		default_profile = {
-      ["cash"] = 0,
+      		["cash"] = 0,
 			["settings"] = {
 				["music"] = true,
 				["low_detail"] = false,
