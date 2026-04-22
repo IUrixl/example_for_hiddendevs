@@ -68,7 +68,7 @@ return {
 		end
 	end,
 	
-	-- avoid double lining
+	-- avoid writing a lot xd
 	_get_data = function(self, player: Player): {}
 		local profile = data:wait_for_profile(player)
 		return profile.data
